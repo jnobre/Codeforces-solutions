@@ -1,6 +1,6 @@
 # Codeforces
 
-This repository contains my solutions to [Codeforces][1] problems. These solutions are provided "as is" - I give no guarantees that they will work as expected.
+This repository contains my solutions to [Codeforces][1] problems. 
 
 ## Problems Solved
 
@@ -9,9 +9,16 @@ The following is the list of the problems solved. Each problem identifier is spe
 ### Codeforces Round #379 (Div. 2)
 
 * ✓ A. Anton and Danik (`734A`)
-* ✓ B. Anton and Digits (`734A`)
-* ✓ C. Anton and Making Potions (`734A`)
-* ✓ D. Anton and Chess (`734A`)
+* ✓ B. Anton and Digits (`734B`)
+* ✓ C. Anton and Making Potions (`734C`)
+* ✓ D. Anton and Chess (`734D`)
+* ✓ E. Anton and Tree (`734E`)
+* ✓ F. Anton and School (`734F`)
+
+
+### Codeforces Round #380 (Div. 2)
+
+* ✓ A. Interview with Oleg (`738A`)
 
 
 [1]: http://codeforces.com
