@@ -19,10 +19,10 @@ The following is the list of the problems solved. Each problem identifier is spe
 ### Codeforces Round #380 (Div. 2)
 
 * ✓ A. Interview with Oleg (`738A`)
-* ✓ B. Spotlights (738B)
-* ✓ C. Road to Cinema (738C)
-* ✓ D. Sea Battle (738D)
-* ✓ E. Subordinates (738E)
-* ✓ F. Financiers Game (738F)
+* ✓ B. Spotlights (`738B`)
+* ✓ C. Road to Cinema (`738C`)
+* ✓ D. Sea Battle (`738D`)
+* ✓ E. Subordinates (`738E`)
+* ✓ F. Financiers Game (`738F`)
 
 [1]: http://codeforces.com
