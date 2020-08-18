@@ -25,4 +25,10 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✓ E. Subordinates (`738E`)
 * ✓ F. Financiers Game (`738F`)
 
+### Codeforces Round #633 (Div. 2)
+* ✓ A. Filling Diamonds (`1339A`)
+* ✓ B. Sorted Adjacent Differences (`1339B`)
+* ✓ C. Powered Addition (`1339C`)
+
+
 [1]: http://codeforces.com
